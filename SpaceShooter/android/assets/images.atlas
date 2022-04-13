@@ -1,0 +1,76 @@
+
+images.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+SpaceBackground
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+SpaceBackground2
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+SpaceBackground3
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+SpaceBackground4
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+enemyRed2
+  rotate: false
+  xy: 1006, 707
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+laserGreen10
+  rotate: false
+  xy: 1006, 651
+  size: 13, 54
+  orig: 13, 54
+  offset: 0, 0
+  index: -1
+laserRed14
+  rotate: false
+  xy: 1152, 897
+  size: 13, 57
+  orig: 13, 57
+  offset: 0, 0
+  index: -1
+playerShip1_red
+  rotate: false
+  xy: 1152, 956
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+shield1
+  rotate: false
+  xy: 1006, 757
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+shield3
+  rotate: false
+  xy: 1006, 867
+  size: 144, 137
+  orig: 144, 137
+  offset: 0, 0
+  index: -1

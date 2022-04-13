@@ -1,0 +1,5 @@
+3% width
+41% height playership
+
+34% width
+96% height enemyship

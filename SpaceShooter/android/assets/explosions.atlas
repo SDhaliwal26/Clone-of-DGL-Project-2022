@@ -1,0 +1,20 @@
+
+explosions.png
+size: 1024, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+enemyexplosions
+  rotate: false
+  xy: 2, 18
+  size: 320, 32
+  orig: 320, 32
+  offset: 0, 0
+  index: -1
+playerexplosions
+  rotate: false
+  xy: 324, 2
+  size: 192, 48
+  orig: 192, 48
+  offset: 0, 0
+  index: -1
