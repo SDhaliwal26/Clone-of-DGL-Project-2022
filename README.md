@@ -2,6 +2,9 @@
 
 
 Video demo showing the game:
+
+
+
 [![FinalDemo](https://img.youtube.com/vi/lG93FRTdNes/0.jpg)](https://www.youtube.com/watch?v=lG93FRTdNes)
 
 # Week 5
