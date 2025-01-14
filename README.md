@@ -1,5 +1,9 @@
 # Sandeep's-community-code
 
+
+Video demo showing the game:
+[![FinalDemo](https://img.youtube.com/vi/lG93FRTdNes/0.jpg)](https://www.youtube.com/watch?v=lG93FRTdNes)
+
 # Week 5
 
 I chose the [libGDX](https://github.com/libgdx/libgdx) community for Java. libGDX is a Java game development framework. I decided on this community because I'm interested in game development. Hopefully, by using their library, I can either create a small game, help the community or add to an existing game.
