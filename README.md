@@ -1,7 +1,7 @@
 # Sandeep's-community-code
 
 
-Video demo showing the game:
+Video demo showing the game after the week 10:
 
 
 
